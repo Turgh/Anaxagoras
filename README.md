@@ -19,7 +19,4 @@ Designed with **NVIDIA Jetson Orin Nano** hardware constraints in mind, it utili
 - **Image Processing:** OpenCV (Open Source Computer Vision Library)
 - **Target Hardware (Edge):** NVIDIA Jetson Orin Nano (8GB) running localized Docker containers
 
----
-
-## Getting Started (Simulation Mode)
 
